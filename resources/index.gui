@@ -1,0 +1,11 @@
+<svg class="background">
+  <image id="imgBackground" x="0" y="0" height="100%" width="100%"/>
+  <image id="imgBatt" x="10" y="10" height="18" width="31" href="bat.png" />
+  <rect id="myBattBar" x="12" y="12" height="14"/>
+  <text id="myBattPct" />
+  <text id="myUTCTime" />
+  <text id="myDate" />   
+  <text id="myTimeHM" />
+  <text id="myTimeSec" />
+  <text id="myTimeAMPM" />
+</svg>

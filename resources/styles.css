@@ -1,0 +1,56 @@
+.background {
+  viewport-fill: black;
+}
+
+#myBattPct {
+  font-size: 20;
+  font-family: System-Regular;
+  text-length: 4;
+  text-anchor: start;
+  x: 48;
+  y: 26;
+  fill: white;
+}
+#myUTCTime {
+  font-size: 20;
+  font-family: System-Regular;
+  text-length: 9;
+  text-anchor: end;
+  x: 100%;
+  y: 26;
+  fill: #A0A0A0;
+}
+#myDate {
+  font-size: 30;
+  font-family: System-Regular;
+  text-length: 14;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%;
+  fill: white;
+}
+
+#myTimeHM {
+  font-size: 90;
+  font-family: System-Bold;
+  text-length: 5;
+  text-anchor: end; 
+  x: 80%;
+  y: 100%-2;
+}
+#myTimeAMPM {
+  font-family: System-Regular;
+  font-size: 16;
+  text-length: 2;
+  text-anchor: start;
+  x: 82%;
+  y: 100%-74;
+}
+#myTimeSec {
+  font-family: System-Regular;
+  font-size: 40;
+  text-length: 2;
+  text-anchor: start;
+  x: 82%;
+  y: 100%-2;
+}

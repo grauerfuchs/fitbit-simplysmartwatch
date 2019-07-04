@@ -1,0 +1,24 @@
+{
+  "fitbit": {
+    "appUUID": "5bbdb4f9-6739-43a1-bd71-0fdc56da2da0",
+    "appType": "clockface",
+    "appDisplayName": "Simply Smartwatch",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Simply Smartwatch"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
